@@ -1,2 +1,2 @@
 # js_hindi_
-Author-Simran Dwivedi
+Author-Simran Dwivedi(developer)
